@@ -6,4 +6,8 @@ N'utilisez que les classes Bootstrap
 Les documents sont disponible sur Form-e
 
 Header
-![Header](profile/img/1.jpg)&nbsp;&nbsp;
+![Header](profile/img/1.jpg)&nbsp;&nbsp;  
+
+Section "Servers"  
+![Servers](profile/img/2.jpg)&nbsp;&nbsp;  
+
