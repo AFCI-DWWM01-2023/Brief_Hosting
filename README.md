@@ -4,4 +4,4 @@
 A reproduire le site "Hosting Landing Page"  
 N'utilisez que les classes Bootstrap
 
-![imgGit](./profile/img/git.svg)&nbsp;&nbsp;
+![imgGit](./profile/img/1.jpg)&nbsp;&nbsp;
