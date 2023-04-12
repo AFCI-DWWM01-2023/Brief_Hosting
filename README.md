@@ -4,4 +4,4 @@
 A reproduire le site "Hosting Landing Page"  
 N'utilisez que les classes Bootstrap
 
-![Header](../Hosting/profile/img/1.JPG)&nbsp;&nbsp;
+![Header](profile/img/1.JPG)&nbsp;&nbsp;
