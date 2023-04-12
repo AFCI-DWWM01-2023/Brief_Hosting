@@ -23,3 +23,6 @@ Section "Projects"
 Section "Pricing" & "Take action"  
 Deux sections différentes
 ![Pricing](profile/img/6.jpg)&nbsp;&nbsp;  
+
+Section "Contact-us"
+![Contact](profile/img/7.jpg)&nbsp;&nbsp;  
