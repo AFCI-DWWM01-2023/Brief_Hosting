@@ -14,7 +14,7 @@ Section "Servers"
 Section "Quality or nothing"
 ![Quality](profile/img/3.jpg)&nbsp;&nbsp;  
 
-Section "It's now or never"
+Section "It's now or never"  
 ![NowOrNever](profile/img/4.jpg)&nbsp;&nbsp;  
 
 Section "Projects"  
