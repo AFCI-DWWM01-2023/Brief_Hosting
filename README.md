@@ -11,3 +11,5 @@ Header
 Section "Servers"  
 ![Servers](profile/img/2.jpg)&nbsp;&nbsp;  
 
+Section "Quality or nothing"
+![Quality](profile/img/3.jpg)&nbsp;&nbsp;  
