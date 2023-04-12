@@ -19,3 +19,7 @@ Section "It's now or never"
 
 Section "Projects"  
 ![Projets](profile/img/5.jpg)&nbsp;&nbsp;  
+
+Section "Pricing" & "Take action"  
+Deux sections différentes
+![Pricing](profile/img/6.jpg)&nbsp;&nbsp;  
